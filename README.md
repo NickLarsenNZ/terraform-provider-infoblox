@@ -52,3 +52,4 @@ $ make test
 
 ## Disclaimer
 To use the provider for DNS purposes, a parent (i.e. zone) must already exist. The plugin does not support the creation of zones.
+
